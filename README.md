@@ -13,7 +13,9 @@ A test of the script: https://youtu.be/1o3KdnBJ0p0. <br/>[![Video to Ascii Art G
 ## Use
 The included .avi file is an example you are free to use. 
 
-<br/>To run the script use command ```python main.py 0001-0075.avi 60 2.5```. <br/>For more detail, look under 'credit' and read jsimb's description. The numbers in the cmd line is the same.
+To run the script use command ```python main.py 0001-0075.avi 60 2.5```. 
+
+For more detail, look under 'credit' and read jsimb's description. The numbers in the cmd line is the same.
 
 ## Credit
 The aschii part of the script was made using: https://github.com/jsimb/image-to-ascii
