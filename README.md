@@ -9,6 +9,7 @@ Written in **Python 3.9**
 
 ## Video
 A test of the script: https://youtu.be/1o3KdnBJ0p0
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](http://www.youtube.com/watch?v=1o3KdnBJ0p0 "Video to Ascii Art Generator")
 
 ## Use
 The included .avi file is an example you are free to use. To run the script use command ```python main.py 0001-0075.avi 60 2.5```
