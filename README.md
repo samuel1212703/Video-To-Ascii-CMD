@@ -9,8 +9,10 @@ I made my cmd fullscreen, and zoomed out one tic:
 ## Video
 A test of the scripthttps://youtu.be/1o3KdnBJ0p0
 
-
+## Use
 The included .avi file is an example you are free to use. To run the script use command ```python main.py 0001-0075.avi 60 2.5```
 
-##Credit
+For more detail, look under 'credit' and read jsimb's description. The numbers in the cmd line is the same.
+
+## Credit
 The aschii part of the script was made using: https://github.com/jsimb/image-to-ascii
