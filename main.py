@@ -1,9 +1,9 @@
-# Image to ASCII Art
-# Created on 7 Jul 2015
-# Author: jsimb
+# Video to ASCII Art
+# Created on 24 Febuary 2021
+# Author: samuel1212703
 #
-# Writes a .txt file containing ascii art corresponding to an arbitrary image.
-# Tested with python3.
+# Transforms a video of any format into ascii art. The ascii art is displayed in the cmd window.
+# Tested with python3.9
 
 from PIL import Image
 import sys
