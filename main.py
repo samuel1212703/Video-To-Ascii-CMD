@@ -1,7 +1,7 @@
 # Video to ASCII Art
 # Created on 24 Febuary 2021
 # Author: samuel1212703
-#
+# Based on a program by: jsimb
 # Transforms a video of any format into ascii art. The ascii art is displayed in the cmd window.
 # Tested with python3.9
 
