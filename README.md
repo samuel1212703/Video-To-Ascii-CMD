@@ -17,5 +17,10 @@ To run the script use command ```python main.py 0001-0075.avi 60 2.5```.
 
 For more detail, look under 'credit' and read jsimb's description. The numbers in the cmd line is the same.
 
+## Contact
+Feel free to contact me.
+
+twitter: https://twitter.com/samuel1212703
+
 ## Credit
 The aschii part of the script was made using: https://github.com/jsimb/image-to-ascii
