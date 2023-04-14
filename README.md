@@ -25,4 +25,4 @@ Feel free to contact me.
 twitter: https://twitter.com/samuel1212703
 
 ## Credit
-The aschii part of the script was made using: https://github.com/jsimb/image-to-ascii
+The ascii part of the script was made using: https://github.com/jsimb/image-to-ascii
