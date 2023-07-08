@@ -21,9 +21,11 @@ Example of execution of the script on the example video (as seen in video):  ```
 For more detail, look under 'credit' and read jsimb's description. The numbers in the cmd line is the same.
 
 ## Contact
-Feel free to contact me.
+Feel free to contact me:
 
-twitter: https://twitter.com/samuel1212703
+Twitter: https://twitter.com/samuel1212703
+
+Mail: samuel.jakobsen321@gmail.com
 
 ## Credit
 The ascii part of the script was made using: https://github.com/jsimb/image-to-ascii
